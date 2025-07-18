@@ -30,7 +30,9 @@ O projeto possui um diagrama UML criado em Mermaid, disponível no arquivo [`Mar
 
 Para compilar e executar:
 ```bash
+# Compilar todos os arquivos .java da pasta 'telefone'
 javac telefone/*.java
+# Executar a aplicação principal
 java telefone.App
 ```
 
