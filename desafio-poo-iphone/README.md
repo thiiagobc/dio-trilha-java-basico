@@ -26,7 +26,7 @@ O projeto é dividido em 4 componentes principais:
 
 O projeto possui um diagrama UML criado em Mermaid, disponível no arquivo [`Markdown.md`](./diagrama-uml.md).
 
-## 🚀 Execução
+## 🖥️ Execução
 
 Para compilar e executar:
 ```bash
