@@ -1,18 +1,36 @@
-## Getting Started
+## 🏦 Desafio: Conta Bancária – Santander Bootcamp DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto simula a criação de uma conta bancária com entrada de dados via terminal, utilizando os fundamentos básicos da linguagem Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+### 🧠 Conceitos Aplicados
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este desafio foi realizado após estudar os seguintes tópicos na trilha do bootcamp:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- ✅ Sintaxe Básica em Java  
+- ✅ Fundamentos da Linguagem de Programação Java  
+- ✅ Manipulação de Entrada com `Scanner`
+- ✅ Declaração de variáveis e tipos primitivos
+- ✅ Saída com `System.out.println`
+- ✅ Concatenação de `String`
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+### 🧱 Estrutura do Projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `ContaTerminal.java`: classe principal com a lógica do programa.
+- O programa realiza a entrada de dados via terminal e exibe uma mensagem personalizada com base nos dados do cliente.
+
+---
+
+### 🖥️ Execução
+
+Para compilar e executar:
+
+```bash
+# Compilar
+javac src/ContaTerminal.java -d bin
+
+# Executar
+java -cp bin ContaTerminal
