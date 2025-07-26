@@ -31,9 +31,9 @@ O foco principal é o aprendizado da linguagem Java e seu ecossistema, passando 
 ## 🚧 Conteúdos em Andamento / A Estudar
 
 ### 🧮 Coleções e Stream em Java
-- 🔄 Conhecendo Collections Java 🚀🚀🚀
-- 🔲 Ganhando Produtividade com Stream API  
-- 🔲 Criando um Banco Digital com Java e POO  
+- ✅ Conhecendo Collections Java 🚀🚀🚀
+- ✅ Ganhando Produtividade com Stream API  
+- ✅ [Projeto POO banco digital](./criando_um_banco_digital)  
 - 🔲 Criando um Jogo do Sudoku em Java  
 - 🔲 Aprimorando Lógica de Programação  
 
@@ -70,7 +70,8 @@ O foco principal é o aprendizado da linguagem Java e seu ecossistema, passando 
 
 - [desafio-conta-banco](./desafio-conta-banco): Simula a criação de uma conta bancária com entrada via terminal.  
 - [desafio-controle-fluxo](./desafio-controle-fluxo): Validação de parâmetros e execução condicional com exceções.  
-- [desafio-poo-iphone](./desafio-poo-iphone): Simulação de funcionalidades de um iPhone com base em POO.  
+- [desafio-poo-iphone](./desafio-poo-iphone): Simulação de funcionalidades de um iPhone com base em POO.
+- [desafio-banco-digital](./criando_um_banco_digital): Criação de um banco digital com base em POO (Herança/Polimorfismo/Encapsulamento).
 
 ---
 
